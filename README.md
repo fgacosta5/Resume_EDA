@@ -9,5 +9,4 @@ The dataset used in this analysis consists of resumes collected in a CSV file. I
 - Category
 
 ### Data Source
-The dataset was obtained from kaggle and contains 2484 records. You can find the dataset in the `data/` folder.
-
+The dataset was obtained from kaggle and contains 2484 records.
